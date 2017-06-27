@@ -1,0 +1,8 @@
+.example {
+    color: red;
+    border: 1px dashed black;
+
+    &__name {
+        color: green;
+    }
+}
